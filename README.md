@@ -105,7 +105,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - **Estado de servicios:** [`Aquí`](https://estado.skyultraplus.com)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0)
 - **Comunidad:** [`Aquí`](https://chat.whatsapp.com/E6iWpvGuJ8zJNPbN3zOr0D)
-- **Contacto(s):** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
+- **Contacto(s):** [`Gata Dios`](https://wa.me/59894243071) / [`Russell`](https://api.whatsapp.com/send/?phone=59894243071&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
 - **Discord:** [`SkyUltraPlus`](https://discord.gg/6saUm5cw)
   
 ***
@@ -135,7 +135,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - **Apk:** [`Aquí`](https://www.mediafire.com/file/6fqf72hfh06e4k4/EdraCloud)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
 - **Comunidad:** [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-- **Contacto:** [`Adrian`](https://wa.me/59894243071)
+- **Contacto:** [`YartexBot-MD ꧁𓊈𒆜VÍCTOR BOT-MD 𒆜𓊉꧂ `](https://wa.me/59894243071)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - YartexBot-MD**</summary><img src="https://i.imgur.com/jD7AT0x.png"></details>
 
