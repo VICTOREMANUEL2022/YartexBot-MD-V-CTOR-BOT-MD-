@@ -135,7 +135,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - **Apk:** [`Aquí`](https://www.mediafire.com/file/6fqf72hfh06e4k4/EdraCloud)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
 - **Comunidad:** [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-- **Contacto:** [`Adrian`](https://wa.me/595976126756)
+- **Contacto:** [`Adrian`](https://wa.me/59894243071)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - YartexBot-MD**</summary><img src="https://i.imgur.com/jD7AT0x.png"></details>
 
@@ -183,3 +183,4 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ### EDITORA Y PROPIETARIA
 <a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
+YartexBot-MD ꧁𓊈𒆜VÍCTOR BOT-MD 𒆜𓊉꧂ 
